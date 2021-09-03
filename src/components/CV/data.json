@@ -302,26 +302,6 @@
         }
       ]
     }
-    },
-
-    
-    {
-      "company": {
-        "name": "ISRA Group",
-        "period": "June 2009 - March 2011"
-      },
-      "projects": [
-        {
-          "name": "Trading systems",
-          "role": "HTML developer",
-          "description": "Trading systems",
-          "stack": {
-            "me": ["Wordpress", "Drupal", "Joomla", "jQuery", "Bootstrap", "HTML", "CSS"],
-            "all": ["PHP"]
-          }
-        }
-      ]
-    }
   ],
   "Professional Courses": [
     {
