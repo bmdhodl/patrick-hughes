@@ -190,15 +190,11 @@
     {
       "company": {
         "name": "TN Air National Guard",
-        "logoHeight": 40,
-        "logo": "n-ix.svg",
         "period": "July 2019 - now"
       },
       "projects": [
         {
           "name": "CleverBridge",
-          "logoHeight": 40,
-          "logo": "cleverbridge.svg",
           "role": "Lead SharePoint Developer",
           "description": "Air National Guard active duty base consisting of 1,100 members across the base",
           "stack": {
@@ -223,15 +219,11 @@
     {
       "company": {
         "name": "C-Spire",
-        "logoHeight": 30,
-        "logo": "moqod.png",
         "period": "July 2017 - August 2018"
       },
       "projects": [
         {
           "name": "Herofi",
-          "logoHeight": 35,
-          "logo": "herofi.svg",
           "role": "Systems Administrator",
           "description": "Formerly known as Teklinks, an MSP company supporting over 50 businesses across Tennessee.",
           "stack": {
@@ -253,30 +245,15 @@
     {
       "company": {
         "name": "Benton County Board of Education",
-        "logoHeight": 40,
-        "logo": "epam.svg",
         "period": "September 2015 - July 2017"
       },
       "projects": [
         {
           "name": "SportChek",
-          "logoHeight": 40,
-          "logo": "sportchek.svg",
           "role": "Systems Analyst",
           "description": "School district made up of 9 schools and over 2,000 students",
           "stack": {
             "me": ["Angular.js", "meteor.js", "REST", "Socket.io", "Stylus", "Gulp"]
-          }
-        },
-        {
-          "name": "Adidas",
-          "logoHeight": 60,
-          "logo": "adidas.svg",
-          "role": "Senior JavaScript developer",
-          "description": "Marketing portal for Adidas Group",
-          "stack": {
-            "me": ["Backbone.js", "Marionette.js", "REST", "Stylus", "Gulp"],
-            "all": ["Java"]
           }
         }
       ]
@@ -285,14 +262,10 @@
       "company": {
         "name": "Army National Guard",
         "period": "November 2012 - November 2018",
-        "logoHeight": 50,
-        "logo": "ciklum.svg"
       },
       "projects": [
         {
           "name": "Cutco",
-          "logoHeight": 55,
-          "logo": "cutco.svg",
           "role": "Information Technology Specialist",
           "description": "Computer network administrator for our base.",
           "stack": {
@@ -306,8 +279,6 @@
   "Professional Courses": [
     {
       "place": "Airman Leadership School",
-      "logo": "bionic.png",
-      "logoHeight": 50,
       "period": "2015",
       "description": "I graduated first in a 192 hour leadership course from the Air Force."
     }
